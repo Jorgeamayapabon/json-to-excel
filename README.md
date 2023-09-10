@@ -1,8 +1,8 @@
-# Project Name
+# json-to-excel
 
 ## Description
 
-A brief description of what this project does and why it exists.
+Python script that performs various operations related to manipulating data in JSON format and creating tables in an Excel file.
 
 ## Table of Contents
 
