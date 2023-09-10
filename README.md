@@ -1,17 +1,17 @@
-# Project Name
+# json-to-excel
 
 ## Description
-
-A brief description of what this project does and why it exists.
+---------
+Python script that performs various operations related to manipulating data in JSON format and creating tables in an Excel file.
 
 ## Table of Contents
-
+---------
 - [Installation](#installation)
 - [Usage](#usage)
 - [Functions](#functions)
 
 ## Installation
-
+---------
 Provide instructions on how to install any necessary dependencies or set up the environment required to run the project.
 
 ```bash
@@ -19,7 +19,7 @@ pip install -r requirements.txt
 ```
 
 ## Usage
-
+---------
 ```bash
 py main.py
 ```
